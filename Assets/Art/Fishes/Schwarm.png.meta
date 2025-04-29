@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 90e649ace4404644b9b1b64bafd88806
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2532443250967629214
+    second: Schwarm_0
+  - first:
+      213: 3246532406606372824
+    second: Schwarm_1
+  - first:
+      213: 7170852447178163157
+    second: Schwarm_2
+  - first:
+      213: 8310105878851241184
+    second: Schwarm_3
+  - first:
+      213: 8807753177919663124
+    second: Schwarm_4
+  - first:
+      213: 3434862529701009873
+    second: Schwarm_5
+  - first:
+      213: -7452345582996244765
+    second: Schwarm_6
+  - first:
+      213: -3696890340032074674
+    second: Schwarm_7
+  - first:
+      213: -4549535008843981064
+    second: Schwarm_8
+  - first:
+      213: 2584307603278140799
+    second: Schwarm_9
+  - first:
+      213: 7570848317267951947
+    second: Schwarm_10
+  - first:
+      213: 3328628306923385212
+    second: Schwarm_11
+  - first:
+      213: 221219454899480348
+    second: Schwarm_12
+  - first:
+      213: 62279151880866251
+    second: Schwarm_13
+  - first:
+      213: 6802073793046826307
+    second: Schwarm_14
+  - first:
+      213: -6017107788570076221
+    second: Schwarm_15
+  - first:
+      213: 482513301341553454
+    second: Schwarm_16
+  - first:
+      213: 5419259526787194192
+    second: Schwarm_17
+  - first:
+      213: -9171269198976617822
+    second: Schwarm_18
+  - first:
+      213: -5948311348835044401
+    second: Schwarm_19
+  - first:
+      213: 8309207250714883824
+    second: Schwarm_20
+  - first:
+      213: 3878539380453619999
+    second: Schwarm_21
+  - first:
+      213: 639481542324123985
+    second: Schwarm_22
+  - first:
+      213: 2703249183494214702
+    second: Schwarm_23
+  - first:
+      213: 2002768963981234385
+    second: Schwarm_24
+  - first:
+      213: 2651384403038241967
+    second: Schwarm_25
+  - first:
+      213: -1763358818091797933
+    second: Schwarm_26
+  - first:
+      213: 7001944229244710626
+    second: Schwarm_27
+  - first:
+      213: 2802702924102204483
+    second: Schwarm_28
+  - first:
+      213: -588163181693127340
+    second: Schwarm_29
+  - first:
+      213: 5960360472245718128
+    second: Schwarm_30
+  - first:
+      213: 52604831263003194
+    second: Schwarm_31
+  - first:
+      213: 3686065026166407829
+    second: Schwarm_32
+  - first:
+      213: 3227560635679106344
+    second: Schwarm_33
+  - first:
+      213: -5370851212624586726
+    second: Schwarm_34
+  - first:
+      213: -5470161107829288964
+    second: Schwarm_35
+  - first:
+      213: 6599273159571547293
+    second: Schwarm_36
+  - first:
+      213: 8670074065629282307
+    second: Schwarm_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Schwarm_0
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623d3cd744fadcd0800000000000000
+      internalID: -2532443250967629214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_1
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df119fd5000e0d20800000000000000
+      internalID: 3246532406606372824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_2
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38bc2de4cf38360800000000000000
+      internalID: 7170852447178163157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_3
+      rect:
+        serializedVersion: 2
+        x: 8305
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e440da944d635370800000000000000
+      internalID: 8310105878851241184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_4
+      rect:
+        serializedVersion: 2
+        x: 10507
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c283f89dc6b3a70800000000000000
+      internalID: 8807753177919663124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_5
+      rect:
+        serializedVersion: 2
+        x: 12839
+        y: 920
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d027a5451baf20800000000000000
+      internalID: 3434862529701009873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6be0e2d23f39890800000000000000
+      internalID: -7452345582996244765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_7
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca0dc92d102bcc0800000000000000
+      internalID: -3696890340032074674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_8
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe96a0930eccd0c0800000000000000
+      internalID: -4549535008843981064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_9
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751cbba21e4dd320800000000000000
+      internalID: 2584307603278140799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_10
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41ce17be6e011960800000000000000
+      internalID: 7570848317267951947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_11
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c717a7f2fc9a13e20800000000000000
+      internalID: 3328628306923385212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_12
+      rect:
+        serializedVersion: 2
+        x: 7837
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1760b21cede11300800000000000000
+      internalID: 221219454899480348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_13
+      rect:
+        serializedVersion: 2
+        x: 8763
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc985c40f824dd000800000000000000
+      internalID: 62279151880866251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_14
+      rect:
+        serializedVersion: 2
+        x: 10039
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dcc8a6312d56e50800000000000000
+      internalID: 6802073793046826307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_15
+      rect:
+        serializedVersion: 2
+        x: 10965
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5b07a850fe7ca0800000000000000
+      internalID: -6017107788570076221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_16
+      rect:
+        serializedVersion: 2
+        x: 12371
+        y: 711
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234dd58a4b32b600800000000000000
+      internalID: 482513301341553454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_17
+      rect:
+        serializedVersion: 2
+        x: 13297
+        y: 710
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5dcfb3d3153b40800000000000000
+      internalID: 5419259526787194192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 485
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a27487414b19b080800000000000000
+      internalID: -9171269198976617822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_19
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3334ff75a537da0800000000000000
+      internalID: -5948311348835044401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_20
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 481
+        width: 466
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f5ff68fb305370800000000000000
+      internalID: 8309207250714883824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_21
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f193d43640753d530800000000000000
+      internalID: 3878539380453619999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_22
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 481
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f5aa1315efd800800000000000000
+      internalID: 639481542324123985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_23
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2499895fced38520800000000000000
+      internalID: 2703249183494214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_24
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 481
+        width: 466
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05749f2c34bcb10800000000000000
+      internalID: 2002768963981234385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_25
+      rect:
+        serializedVersion: 2
+        x: 9015
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa40b12211c9bc420800000000000000
+      internalID: 2651384403038241967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_26
+      rect:
+        serializedVersion: 2
+        x: 9763
+        y: 481
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f5146f7a4787e0800000000000000
+      internalID: -1763358818091797933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_27
+      rect:
+        serializedVersion: 2
+        x: 11217
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2a39bd27eb2160800000000000000
+      internalID: 7001944229244710626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_28
+      rect:
+        serializedVersion: 2
+        x: 11965
+        y: 481
+        width: 466
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7f0ac57335e620800000000000000
+      internalID: 2802702924102204483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_29
+      rect:
+        serializedVersion: 2
+        x: 13549
+        y: 486
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455b735d3bc66d7f0800000000000000
+      internalID: -588163181693127340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_30
+      rect:
+        serializedVersion: 2
+        x: 14297
+        y: 481
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c4c79254477b250800000000000000
+      internalID: 5960360472245718128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 243
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3296e8b0d3eab000800000000000000
+      internalID: 52604831263003194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_32
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c3a79c98872330800000000000000
+      internalID: 3686065026166407829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_33
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825efac3c499acc20800000000000000
+      internalID: 3227560635679106344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_34
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1819023747e675b0800000000000000
+      internalID: -5370851212624586726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_35
+      rect:
+        serializedVersion: 2
+        x: 9396
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff8daf54751614b0800000000000000
+      internalID: -5470161107829288964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_36
+      rect:
+        serializedVersion: 2
+        x: 11598
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94280469f3559b50800000000000000
+      internalID: 6599273159571547293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Schwarm_37
+      rect:
+        serializedVersion: 2
+        x: 13930
+        y: 213
+        width: 466
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300092a3d6a425870800000000000000
+      internalID: 8670074065629282307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Schwarm_0: -2532443250967629214
+      Schwarm_1: 3246532406606372824
+      Schwarm_10: 7570848317267951947
+      Schwarm_11: 3328628306923385212
+      Schwarm_12: 221219454899480348
+      Schwarm_13: 62279151880866251
+      Schwarm_14: 6802073793046826307
+      Schwarm_15: -6017107788570076221
+      Schwarm_16: 482513301341553454
+      Schwarm_17: 5419259526787194192
+      Schwarm_18: -9171269198976617822
+      Schwarm_19: -5948311348835044401
+      Schwarm_2: 7170852447178163157
+      Schwarm_20: 8309207250714883824
+      Schwarm_21: 3878539380453619999
+      Schwarm_22: 639481542324123985
+      Schwarm_23: 2703249183494214702
+      Schwarm_24: 2002768963981234385
+      Schwarm_25: 2651384403038241967
+      Schwarm_26: -1763358818091797933
+      Schwarm_27: 7001944229244710626
+      Schwarm_28: 2802702924102204483
+      Schwarm_29: -588163181693127340
+      Schwarm_3: 8310105878851241184
+      Schwarm_30: 5960360472245718128
+      Schwarm_31: 52604831263003194
+      Schwarm_32: 3686065026166407829
+      Schwarm_33: 3227560635679106344
+      Schwarm_34: -5370851212624586726
+      Schwarm_35: -5470161107829288964
+      Schwarm_36: 6599273159571547293
+      Schwarm_37: 8670074065629282307
+      Schwarm_4: 8807753177919663124
+      Schwarm_5: 3434862529701009873
+      Schwarm_6: -7452345582996244765
+      Schwarm_7: -3696890340032074674
+      Schwarm_8: -4549535008843981064
+      Schwarm_9: 2584307603278140799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
